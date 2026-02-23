@@ -26,3 +26,14 @@ pip install -r requirements/requirements.txt
 Run tests:
 pytest tests/
 
+## Framework features
+
+- Page Object Model (POM)
+- Playwright browser automation
+- Reusable BrowserFactory
+- Scalable test framework structure
+
+## Author
+
+QA Automation Engineer Portfolio Project
+
